@@ -63,7 +63,7 @@ standard_values = {
 }
 
 # Sidebar for user input (sliders)
-st.sidebar.header('User Input Values')
+st.sidebar.header('User Values')
 
 # Function to get user input from sliders
 def user_input_features():
